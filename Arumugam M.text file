@@ -1,0 +1,9 @@
+Program: Sum of Two Numbers
+
+Step 1: Start
+Step 2: Declare two variables (num1, num2)
+Step 3: Input num1
+Step 4: Input num2
+Step 5: Calculate sum = num1 + num2
+Step 6: Display sum
+Step 7: End
